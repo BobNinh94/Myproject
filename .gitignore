@@ -9,5 +9,5 @@ se chi bo qua cac file .xyz trong git repo
 #minh muon bo qua file abc.txt trong folder Second folder 
 Second folder/abc.txt
 Hoat dong ngon lanh
-Second folder/my.txt
+Second folder\my.txt
 
