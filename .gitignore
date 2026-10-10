@@ -6,3 +6,5 @@ alo
 # minh muon bo qua file abz.xyz nhung van giu myfile.xyz
 /*.xyz
 se chi bo qua cac file .xyz trong git repo
+#minh muon bo qua file abc.txt trong folder Second folder 
+Second folder/abc.txt
