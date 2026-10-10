@@ -1,0 +1,5 @@
+# day la comment ko co tac dung ignore files/folders
+# alo alo/
+alo
+*.log
+# chung ta se bo qua cac file co duoi .log
