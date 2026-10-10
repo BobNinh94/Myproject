@@ -3,3 +3,6 @@
 alo
 *.log
 # chung ta se bo qua cac file co duoi .log
+# minh muon bo qua file abz.xyz nhung van giu myfile.xyz
+/*.xyz
+se chi bo qua cac file .xyz trong git repo
